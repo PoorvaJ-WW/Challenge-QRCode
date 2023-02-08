@@ -1,0 +1,39 @@
+body {
+  background-color: #d6e2f0;
+}
+
+img {
+  padding: 40px;
+  height: 260px;
+  width: auto;
+  position: relative;
+  padding: 20px;
+  border-radius: 30px;
+}
+
+.qr-code {
+  background-color: #ffffff;
+  width: 20%;
+  height: 480px;
+  border-radius: 20px;
+  position: relative;
+  margin: 120px auto;
+}
+
+h1 {
+  font-family: "Outfit", sans-serif;
+  color: #1f3251;
+  font-size: 20px;
+  font-weight: 700;
+  padding: 0 20px;
+  text-align: center;
+}
+
+p {
+  font-family: "Outfit", sans-serif;
+  color: #7b879d;
+  font-weight: 400;
+  padding: 0 20px;
+  text-align: center;
+  font-size: 15px;
+}
